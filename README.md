@@ -1,5 +1,5 @@
 <p align="center">
    <a>
-   <img src="https://gh-streak.andcool.ru?user=ghostdev159&theme=transparent&border=22282E" alt="GitHub Streak" />
+   <img src="https://github.com/GhostDEV159/ghostdev159/blob/main/goida-protocol.gif" />
    </a>
 </p>
